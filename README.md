@@ -1,2 +1,4 @@
 # gossjs.github.io
-индексная страница
+это индексная страница сайта https://gossjs.github.io/
+
+
