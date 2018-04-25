@@ -1,11 +1,17 @@
 # gossjs.github.io
 https://kodaktor.ru/g/gossjs
 
+https://kodaktor.ru/g/git
+
+----
+
 это индексная страница сайта https://gossjs.github.io/
 
 Она создана из репозитория https://github.com/GossJS/gossjs.github.io
 
 Но некоторые пути подмонтируются из других репозиториев.
+
+https://gossjs.github.io/reactDemo2018/ - это из папки /docs репозитория reactDemo2018 (https://github.com/GossJS/reactDemo2018/) - пример работающего React-приложения
 
 ---
 
